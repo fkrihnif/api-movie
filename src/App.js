@@ -12,6 +12,8 @@ const App = () => {
     })
   }, [])
 
+  //testt
+
   const PopularMovieList = () => {
     return popularMovies.map((movie, i) => {
       return (
